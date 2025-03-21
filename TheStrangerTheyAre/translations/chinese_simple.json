@@ -880,11 +880,11 @@
     "GAILLARDIA: Did you not see the threatening transmission from their vessel? An alien species seemed to have murdered them!": "盖拉迪娅: 你没收到他们飞船发来的那条警报吗？看起来他们遭遇了某个外星种族的袭击！",
     "FUCHSIA: Oh dear. In that case, put that solar neighborhood into a no-warp zone. First Escall, now Agapanthus! We must not risk losing any more Nomai!": "弗丘夏: 天啊。这样的话，立即将那片星域标记为禁止跃迁区。先是艾斯科尔，现在又是阿加潘瑟斯！我们不能再失去更多同胞了！",
     "GAILLARDIA: Does this mean we stop looking for Escall?": "盖拉迪娅: 这是不是意味着我们要放弃寻找艾斯科尔了？",
-    "FUCHSIA: Of course it does! Escall's Clan might as well be dead too!": "弗丘夏: 弗丘夏: 别无选择！艾斯科尔的族人恐怕也已经凶多吉少了！",
+    "FUCHSIA: Of course it does! Escall's Clan might as well be dead too!": "弗丘夏: 我们别无选择！艾斯科尔的族人恐怕也已经凶多吉少了！",
 
     //NOM_OutgoingMsg
-    "<![CDATA[<color=green>DO NOT WARP TO OUR SYSTEM AGAIN!</color>]]>": "<![CDATA[<color=green>警告：切勿再次跃迁至我方星域！</color>]]>",
-    "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green>若胆敢违令，尔等必将与这些异族同归于尽！<</color>]]>",
+    "<![CDATA[<color=green>DO NOT WARP TO OUR SYSTEM AGAIN!</color>]]>": "<![CDATA[<color=green>警告：别再次跃迁至我方星域！</color>]]>",
+    "<![CDATA[<color=green>IF YOU DO, YOU WILL SUFFER THE SAME FATE AS THESE ALIENS HAVE!</color>]]>": "<![CDATA[<color=green>若执意如此，你们的下场将与这些异族无异！</color>]]>",
 
     //NOM_Recorder
     "AGAPANTHUS: We have been able to get approximate coordinates to where Escall may have warped to.": "阿加潘瑟斯：我们已经锁定了艾斯科尔可能跃迁前往的大致坐标。",
@@ -1369,6 +1369,10 @@
     "There's a picture showing a scratch mark on the dark-ice state. Some text says it's directly behind the lab somewhere.": "有一张图片显示了暗冰量子态下的划痕标记。文字说明它位于实验室正后方的某个位置。",
     "Bark says he saw the scratch about 120 meters south of the lab, situated next to a lantern.": "巴克说他在实验室南方约120米处，靠近一座灯笼的地方发现了这处划痕。",
     "I found scratch marks on Distant Enigma's first state.": "我在深域幻星第一量子态中发现了那些关键的划痕标记。",
+
+    "Bark's Corpse": "巴克的尸体",
+    "I found Bark's dead corpse on one of Distant Enigma's other two states...": "我在深域幻星的另外两个状态中找到了巴克的尸体……",
+    "I can pull out Bark's skull and pick it up.": "我可以取出巴克的头骨并将其带走。",
 
     //ringedgiant
     "Ringed Giant": "环界星",
